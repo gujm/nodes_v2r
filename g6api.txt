@@ -1,6 +1,6 @@
 freexxx.ndeso.xyz:443
 www.wto.org:8443
-23.226.8.80:8443
+23.226.8.80:443
 cdnjs.com:8443
 www.racknerd.com:8443
 registry.cyou:8443

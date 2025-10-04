@@ -1,10 +1,3 @@
-freexxx.ndeso.xyz:443
-www.wto.org:8443
-23.226.8.80:443
-cdnjs.com:8443
-www.racknerd.com:8443
-registry.cyou:8443
-91.193.58.131:8443
 [2606:4700:3034::ac43:bcb5]:8443#GB
 104.19.115.33:8443#San Jose
 104.19.107.87:8443#San Jose
